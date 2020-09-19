@@ -1,23 +1,14 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code -2020
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day1:9/17/2020
+**Today's Progress**: Started freecodecamp- newbie 
+**Thoughts:** started learning more about HTML-HTML5
+**Link to work:** https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/use-the-value-attribute-with-radio-buttons-and-checkboxes
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
+### Day 2:9/18/2020
+**Today's Progress**: made it to 83% on freecodecamp- going to start learning about Java
+**Thoughts**: Im really loving learning code
+**Link(s) to work**: https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/use-the-value-attribute-with-radio-buttons-and-checkboxes
 
 ### Day 1: June 27, Monday
 
